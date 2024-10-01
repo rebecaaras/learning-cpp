@@ -1,0 +1,1 @@
+Files created during study of the C++ language and reading of the book Algorithms and Data Structures by Adam Drozdek.
